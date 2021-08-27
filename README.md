@@ -1,5 +1,5 @@
 # Connect-4
-This assignment was given during **Introduction to Object-Oriented Programming** by **Professor Praveen Tripathi**.
+This assignment was given during **Introduction to Object-Oriented Programming** by **Professor Praveen Tripathi** in the language of **Java**.
 
 Taken during **Fall 2020** in **Stony Brook University**.
 
